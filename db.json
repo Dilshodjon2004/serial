@@ -1,0 +1,107 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan '“Premium”'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "post",
+      "title": "Plan 'VIP'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 1
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 2
+    },
+    {
+      "name": "Dilshodbek Gulomov Blog",
+      "phone": "+998 (99) 434 - 34 - 75",
+      "id": 3
+    },
+    {
+      "name": "Diyorbek",
+      "phone": "+998 97 602 88 15",
+      "id": 4
+    },
+    {
+      "name": "eeee",
+      "phone": "wew",
+      "id": 5
+    },
+    {
+      "name": "Diyorbek",
+      "phone": "+998 97 602 88 15",
+      "id": 6
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 7
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 8
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 9
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 10
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 11
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 12
+    },
+    {
+      "name": "eeee",
+      "phone": "998994343475",
+      "id": 13
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998 (99) 434 - 34 - 75",
+      "id": 14
+    },
+    {
+      "name": "Dilshodbek",
+      "phone": "+998994343475",
+      "id": 15
+    },
+    {
+      "name": "Dilshodbek Gulomov Blog",
+      "phone": "998994343475",
+      "id": 16
+    }
+  ]
+}

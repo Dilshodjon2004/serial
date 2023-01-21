@@ -1,0 +1,31 @@
+{
+  "name": "serial",
+  "version": "1.0.0",
+  "description": "JavaScript projeect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "browserslist": [
+    "> 1%"
+  ],
+  "author": "Dilshodbek Gulomov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "json-server": "^0.17.1",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "core-js": "^3.27.2",
+    "webpack-cli": "^5.0.1"
+  }
+}
