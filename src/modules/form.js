@@ -34,7 +34,7 @@ function form(formSelector,modalTimerId) {
 
       const json = JSON.stringify(Object.fromEntries(formData.entries()));
 
-      postData("http://localhost:3000/request", json)
+      postData("https://my-json-server.typicode.com/Dilshodjon2004/serial/request", json)
         .then((data) => {
           console.log(data);
           showThanksModal(msg.success);

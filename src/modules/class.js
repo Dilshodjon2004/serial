@@ -42,7 +42,7 @@ function clas() {
     }
   }
 
-  axios.get("http://localhost:3000/menu").then((data) => {
+  axios.get("https://my-json-server.typicode.com/Dilshodjon2004/serial/menu").then((data) => {
     data.data.forEach(({ img, altimg, title, descr, price }) => {
       new MenuCard(
         img,
